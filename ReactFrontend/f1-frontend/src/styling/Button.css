@@ -1,0 +1,26 @@
+.btn_default {
+  background-color: #ffffff;
+  border-radius: 50px;
+  border: 1px solid #000000;
+  display: inline-block;
+  color: #000000;
+  padding: 5px 5px;
+  text-shadow: 0px 1px 0px #f55858;
+  cursor: pointer;
+  margin: 5px;
+  min-width: 60px;
+}
+.btn_default:hover {
+  background-color: #e6e6e6;
+}
+.btn_default:active {
+  position: relative;
+  top: 1px;
+}
+
+.greenhover:hover {
+  background-color: palegreen;
+}
+.redhover:hover {
+  background-color: tomato;
+}

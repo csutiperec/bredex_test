@@ -1,0 +1,21 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 130px;
+    min-width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+}
+@media screen and (min-width: 630px) {
+    .login-container {
+        margin-left: auto;
+    }
+}
+.loginform-container{
+    margin-bottom: 5px;
+}

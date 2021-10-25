@@ -1,0 +1,25 @@
+.newteam-form-container{
+    margin:auto;
+    max-width: 250px;
+}
+.input100{
+    width: 100%;
+}
+.checkboxPaid{
+    margin: auto;
+}
+.checkboxOption{
+    display: flex;
+    flex-direction: row;
+}
+.spaceAfter{
+    margin-bottom: 8px;
+}
+.button-container{
+    margin: auto;
+    width: min-content;
+    margin-top: 30px;
+}
+.errormsg{
+    text-align: center;
+}

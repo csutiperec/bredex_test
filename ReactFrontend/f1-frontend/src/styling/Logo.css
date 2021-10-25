@@ -1,0 +1,11 @@
+.logo{
+    max-height: 110px;
+    width: auto;
+}
+.logo-container{
+    background-color: white;
+    height: 110px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
