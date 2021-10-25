@@ -1,5 +1,7 @@
 CREATE DATABASE bredex_f1;
 
+\c bredex_f1
+
 CREATE TABLE users (
     username VARCHAR(255) NOT NULL UNIQUE,
     password_ VARCHAR(255) NOT NULL,
